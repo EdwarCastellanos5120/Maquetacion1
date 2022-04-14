@@ -16,4 +16,5 @@
 
 <img src="https://github.com/EdwarCastellanos5120/Maquetacion1/blob/main/img/Img3.png"/>
 
+<hr/>
 
